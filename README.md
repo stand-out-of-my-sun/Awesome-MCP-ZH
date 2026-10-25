@@ -514,6 +514,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 
 | 名称                                                                 | 中文介绍                                                                                              | 备注                                                                                                       |
 | :------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| [Diogenes Database Intelligence](https://github.com/stand-out-of-my-sun/diogenes-database-intelligence-mcp) | 确定性数据库智能与架构守卫套件：提供 12 项 SQL 工具（自然语言转 SQL、AST SQL 注入安全审计、破坏性架构迁移比对与连接池容量计算）。 | 社区实现, TypeScript 开发 📇, Streamable HTTP 🌐, 免配置无密钥, MIT。 |
 | [Alibaba Cloud AnalyticDB for MySQL](https://github.com/aliyun/alibabacloud-adb-mysql-mcp-server) | 阿里云 AnalyticDB for MySQL 官方集成，连接 AnalyticDB for MySQL 集群进行数据库元数据查询和数据分析。 | 官方实现 (Alibaba Cloud) 🎖️, 阿里云数据库服务。                                                          |
 | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | MongoDB 官方 MCP 服务器，连接 MongoDB 数据库与 Atlas 集群，支持查询、聚合、索引管理与集群运维。 | 官方实现 (MongoDB) 🎖️, TypeScript 开发 📇, 本地/云端 🏠☁️, MongoDB 数据库管理。 |
 | [redis/mcp-redis](https://github.com/redis/mcp-redis) | Redis 官方 MCP 服务器，为智能体应用提供自然语言接口，高效管理和搜索 Redis 中的数据。 | 官方实现 (Redis) 🎖️, Python 开发 🐍, 本地/云端 🏠☁️, Redis 数据管理与检索。 |
