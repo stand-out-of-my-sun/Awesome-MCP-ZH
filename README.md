@@ -305,6 +305,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 
 | 名称                                                                 | 中文介绍                                                                          | 备注                                                                               |
 | :------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Diogenes Web Scraping Engine](https://github.com/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp) | 高性能网页抓取与可读性引擎：提供 12 项确定性工具（HTML 编译为纯净 LLM Markdown、文章可读性提取、OpenGraph 与 JSON-LD 元数据解析、表格转 Markdown/JSON 与 XML 网站地图爬虫）。 | 社区实现, TypeScript 开发 📇, Streamable HTTP 🌐, 免配置无密钥, MIT。 |
 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 微软官方出品，使用 Playwright 让 AI 精确控制网页，自动化抓取数据。                   | 官方实现，浏览器自动化强推，适合需要精细网页交互的场景。                               |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 谷歌 Chrome 官方出品，让 AI 编程代理直接驱动 Chrome DevTools：导航页面、检查 DOM、抓取网络请求、跑性能与 Lighthouse 审计、执行脚本。 | 官方实现 (Google Chrome) 🎖️, TypeScript 开发 📇, 本地运行 🏠, 浏览器调试与自动化, 42K+ Stars。 |
 | [webclaw](https://github.com/0xMassi/webclaw) | 快速本地优先的网页内容提取工具，专为 LLM 设计。支持将网页转换为 Markdown/JSON/纯文本，内置 TLS 指纹伪装绕过反爬，无需浏览器。提供 MCP 服务器（10 个工具）和 CLI。 | 社区实现, Rust 开发 🦀, 本地运行 🏠, MIT 开源, 高性能网页提取。 |
